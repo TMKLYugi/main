@@ -1,0 +1,11 @@
+/* Chỉnh sửa giao diện, màu sắc, font chữ,..v..v.. */
+a {
+  color: blue;
+ font-family: 'Lobster', cursive;
+}
+.h1{
+  color: red;
+}
+h6 {
+  color : #6699FF	;
+}
