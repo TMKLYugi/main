@@ -1,5 +1,5 @@
 /* Chỉnh sửa giao diện, màu sắc, font chữ,..v..v.. */
-/*a {
+a {
   color: blue;
  font-family: 'Lobster', cursive;
 }
@@ -12,7 +12,4 @@ h6 {
 .thoi{
   color:#FF33E9;
 }
-*/
-h1{
- font-size: 40%
-}
+
