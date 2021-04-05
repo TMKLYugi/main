@@ -1,15 +1,15 @@
 /* Chỉnh sửa giao diện, màu sắc, font chữ,..v..v.. */
 a {
-  color: blue;
- font-family: 'Lobster', cursive;
+  color: rgb(34, 112, 172);
+ font-family: cursive;
 }
 .h1{
   color: red;
 }
 .chu-y {
-  color : #6699FF	;
+  color : #0400ff	;
 }
 .thoi{
-  color:#FF33E9;
+  color:#b16baa;
 }
 
