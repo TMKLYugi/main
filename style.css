@@ -4,6 +4,7 @@ a {
 }
 .title{
   color: red;
+  font-family: 'Lobster', sans-serif;
 }
 .chu-y {
   color : #0400ff	;
@@ -11,6 +12,6 @@ a {
 .thoi{
   color:#b16baa;
 }
-h1 {
+h1{
   font-family: 'Roboto', sans-serif;
 }
