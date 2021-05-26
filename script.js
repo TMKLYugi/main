@@ -4,5 +4,4 @@ let dev = {
         console.log('Xin chào TMKLYugi - Nhà phát triển')
         }
    }
-dev.open()
 alert('NGHỈ HÈ RỒI! UwU')
