@@ -4,4 +4,4 @@ let dev = {
         console.log('Xin chào TMKLYugi - Nhà phát triển')
         }
    }
-alert('NGHỈ HÈ RỒI! UwU')
+alert('Vào học thôi nào!!! UwU')
