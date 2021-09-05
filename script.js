@@ -5,3 +5,6 @@ let dev = {
         }
    }
 alert('Vào học thôi nào!!! UwU')
+document.getElementByld("SH").onclick = function(){
+    document.getElementByld("TKB").style.display = "block";
+    }
